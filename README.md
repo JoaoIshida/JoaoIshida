@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🏫 3rd-year at [SFU] (https://www.sfu.ca/)<br>📚 BASc, Computer Science<br>🧑‍💻 Passionate about 'technology' and dedicated to growing my knowledge in the field</p>
+<p align="left">🏫 3rd-year at Simon Fraser University(https://www.sfu.ca/)<br>📚 BASc, Computer Science<br>🧑‍💻 Passionate about 'technology' and dedicated to growing my knowledge in the field</p>
 
 ###
 
