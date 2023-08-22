@@ -12,6 +12,9 @@
 </div>
 
 ###
+<h2 align="left">My language skills</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -36,6 +39,9 @@
 </div>
 
 ###
+<h2 align="left">My social medias</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joaoishida/" target="_blank">
@@ -51,6 +57,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoIshida/JoaoIshida/output/snake.svg" alt="Snake animation" />
-
-###
