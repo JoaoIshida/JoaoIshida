@@ -1,4 +1,4 @@
-name: daily
+name: snakes
 on:
   workflow_dispatch:
   pull_request:
