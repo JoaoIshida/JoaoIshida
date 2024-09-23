@@ -1,19 +1,15 @@
-# Hi 👋! My name is Joao Correa
-
+<h1>Hi 👋! My name is Joao Correa<span><a href="https://www.linkedin.com/in/joaoishida/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:jvi2@sfu.ca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Outlook logo" />
+  </a></span></h1>
+  
 <p align="left">
   🏫 4th-year at <a href="https://www.sfu.ca/">Simon Fraser University</a><br>
   📚 BASc, Computer Science<br>
   🧑‍💻 Passionate about technology and dedicated to growing my knowledge in the field
 </p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaoishida/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:jvi2@sfu.ca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Outlook logo" />
-  </a>
-</div>
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoIshida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
