@@ -6,9 +6,16 @@
   </a></span></h1>
   
 <p align="left">
-  🏫 4th-year at <a href="https://www.sfu.ca/">Simon Fraser University</a><br>
-  📚 BASc, Computer Science<br>
-  🧑‍💻 Passionate about technology and dedicated to growing my knowledge in the field
+🛜 I am committed to contributing my skills to innovative projects, with a constant drive to learn and grow in tech. Let's connect and discuss how I can bring value to your team!
+    
+🏫I am a 5th-year Computer Science student at Simon Fraser University, with a passion for leveraging technology to solve real-world problems. My expertise spans Full Stack Development, AI, Data Analytics, and Data Visualization.
+
+👨‍💻 I thrive in collaborative environments and have actively contributed to projects across various fields
+
+🙋 My experience in team settings extends to:
+
+- Working on agile teams, applying problem-solving skills and utilizing industry-standard tools (Git/Github, Docker, and more) for project success.
+- Extensive involvement in hackathons, where I’ve thrived in high-pressure situations and innovated under deadlines.
 </p>
 
 <div align="center"> 
@@ -17,15 +24,13 @@
 
 ## Skills:
 
-### Languages
+### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" title="Java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" title="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
   <img width="12" />
@@ -33,11 +38,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo" title="R" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" title="SQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" title="NoSQL" />
 </div>
 
 ### Frameworks & Libraries
@@ -52,14 +63,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" title="MongoDB" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" title="Django" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" title="REST API" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" title="SQLite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" title="npm" />
 </div>
 
-### Tools & Technologies
+### Developer Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" title="Visual Studio Code" />
   <img width="12" />
@@ -67,9 +82,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" title="GitHub" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" title="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" title="Linux/Ubuntu" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" title="Vercel" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" title="Azure" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="Python venv" title="Venv" />
   <img width="12" />
   <img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" height="40" alt="post logo" title="postman" />
   <img width="12" />
@@ -77,7 +98,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB logo" title="MATLAB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" title="pycharm"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" title="pycharm" />
 </div>
 
 ### Data Science & AI
