@@ -29,64 +29,64 @@
 ### Programming Languages
 <div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=java" height="40" width="40" alt="Java logo" title="Java" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C logo" title="C" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++ logo" title="C++" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo" title="C#" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" width="40" alt="Python logo" title="Python" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" width="40" alt="C logo" title="C" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" width="40" alt="C++ logo" title="C++" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" width="40" alt="Python logo" title="Python" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="40" alt="Kotlin logo" title="Kotlin" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" width="40" alt="JavaScript logo" title="JavaScript" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" width="40" alt="TypeScript logo" title="TypeScript" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" alt="PostgreSQL logo" title="SQL (PostgreSQL)" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB logo" title="NoSQL (MongoDB)" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" width="40" alt="CSS logo" title="CSS" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" width="40" alt="HTML logo" title="HTML" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=r" height="40" width="40" alt="R logo" title="R" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" width="40" alt="JavaScript logo" title="JavaScript" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" width="40" alt="TypeScript logo" title="TypeScript" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5 logo" title="HTML" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3 logo" title="CSS" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" width="40" alt="MySQL logo" title="SQL" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB logo" title="NoSQL" style="margin: 5px;" />
 </div>
 
-### Frameworks & Libraries
+### Frontend Frameworks
 <div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=react" height="40" width="40" alt="React logo" title="React" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" alt="Node.js logo" title="Node.js" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" alt="Next.js logo" title="Next.js" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" alt="Tailwind CSS logo" title="Tailwind CSS" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB logo" title="MongoDB" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" width="40" alt="Django logo" title="Django" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="Express.js logo" title="REST API" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" alt="SQLite logo" title="SQLite" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo" title="Microsoft SQL Server" style="margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" width="40" alt="npm logo" title="npm" style="margin: 5px;" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" height="40" width="40" alt="Jetpack Compose logo" title="Jetpack Compose" style="margin: 5px;" />
 </div>
 
-### Developer Tools
+### Backend & APIs
 <div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" alt="VSCode logo" title="Visual Studio Code" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" alt="Node.js logo" title="Node.js" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" width="40" alt="Django logo" title="Django" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" width="40" alt="Supabase logo" title="Supabase" style="margin: 5px;" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="Hugging Face logo" title="Hugging Face" style="margin: 5px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQE0nEZrPGv0JA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679583758253?e=2147483647&v=beta&t=4QpsM1YKchLOfxVzpfFJAQWdkJ3vg3aKUWYL5tFVXXI" height="40" width="40" alt="REST API logo" title="REST API" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" width="40" alt="NPM logo" title="NPM" style="margin: 5px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReHvByZkJhXRzuDuLPfYtmdNlOk6JsTRn1w&s" height="40" width="40" alt="Sanity CMS logo" title="Sanity CMS" style="margin: 5px; border-radius: 8px;" />
+</div>
+
+### DevOps & Cloud
+<div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker logo" title="Docker" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="Git logo" title="Git" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub logo" title="GitHub" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" width="40" alt="Docker logo" title="Docker" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" width="40" alt="Linux logo" title="Linux/Ubuntu" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" alt="Vercel logo" title="Vercel" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" width="40" alt="Azure logo" title="Azure" style="margin: 5px;" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" width="40" alt="Python venv" title="Venv" style="margin: 5px;" />
-  <img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" height="40" width="40" alt="post logo" title="postman" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" width="40" alt="CodePen logo" title="CodePen" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" width="40" alt="MATLAB logo" title="MATLAB" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40" alt="pycharm logo" title="pycharm" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" width="40" alt="Linux logo" title="Linux" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/Whinarn/vscode-python-auto-venv/master/images/logo.png" height="40" width="40" alt="Python venv logo" title="Python venv" style="margin: 5px;" />
 </div>
 
-### Data Science & AI
+### Databases & Data
 <div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas logo" title="Pandas" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB logo" title="MongoDB" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" alt="PostgreSQL logo" title="PostgreSQL" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy logo" title="NumPy" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter logo" title="Jupyter" style="margin: 5px;" />
 </div>
 
-### Design
+### Tools & IDEs
 <div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" width="40" alt="Postman logo" title="Postman" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" width="40" alt="CodePen logo" title="CodePen" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" width="40" alt="PyCharm logo" title="PyCharm" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="Figma logo" title="Figma" style="margin: 5px;" />
-</div>
-
-### Game Development
-<div align="left" style="padding: 10px; border-radius: 8px; margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" width="40" alt="Unity logo" title="Unity" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="40" alt="Android Studio logo" title="Android Studio" style="margin: 5px;" />
 </div>
 
 </div>
